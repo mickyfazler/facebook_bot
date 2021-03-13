@@ -1,0 +1,8 @@
+{
+    "driver": "C:/Program Files (x86)/chromedriver.exe" ,
+   
+     "username": "myemail@gmail.com",
+     "password": "mypass",
+    "media": "D:\\Automation\\create_notes\\Which_photo_you_wanna_post.jpeg"
+
+}
